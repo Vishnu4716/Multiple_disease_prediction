@@ -58,3 +58,4 @@ scipy==1.6.3
 sklearn==0.0
 smmap==4.0.0
 streamlit==0.82.0
+streamlit_option_menu==0.3.6
